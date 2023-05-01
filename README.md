@@ -6,4 +6,4 @@
   onde foram introduzidos os conceitos e praticas em Html, Css, javascript e uma introdução ao Bootstrap.
 - Como forma de obtenção de nota para o semestre, foi exigido a elaboração de algumas páginas de um site 
   da escolha do aluno, desde que fossem implementados todos om conceitos ensinados durante o semestre. 
-  Desse modo, eu escolhi criar paginaspara a empresa que trabalho para fins de praticidade, e por entender os produtos oferecidos por ela.
+  Desse modo, eu escolhi criar paginas para a empresa que trabalho para fins de praticidade, e por entender os produtos oferecidos por ela.
